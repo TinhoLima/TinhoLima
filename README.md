@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Alison Coutinho!👋😉
-- 🔭 Atualmente buscando vagas 
+- 🔭 Atualmente buscando novos horizontes 
 - 🌱 Estudando: JavaScript, Java, HTML, CSS
 - 😄 Pronouns: ele/dele
 <div align="center">
