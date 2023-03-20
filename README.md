@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alison Coutinho!👋😉
 - 🔭 Atualmente buscando novos horizontes 
-- 🌱 Estudando: JavaScript, Java, HTML, CSS
+- 🌱 Estudando: JavaScript, HTML, CSS.
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/tinholima">
