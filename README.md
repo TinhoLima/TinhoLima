@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alison Coutinho!👋😉
+### Bem vindo! Eu sou o Alison Coutinho!👋😉
 - 🔭 Atualmente buscando novos horizontes 
 - 🌱 Estudando: JavaScript, HTML, CSS.
 - 😄 Pronouns: ele/dele
