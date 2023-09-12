@@ -1,7 +1,6 @@
 ### Bem vindo! Eu sou o Alison Coutinho!👋😉
-- 🔭 Atualmente buscando novos horizontes 
-- 🌱 Estudando: JavaScript, HTML, CSS.
-- 😄 Pronouns: ele/dele
+- 🌍 Atualmente buscando novos horizontes. 
+- 🧠 Estudando: React.
 <div align="center">
   <a href="https://github.com/tinholima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TinhoLima&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
