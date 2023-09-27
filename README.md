@@ -1,4 +1,4 @@
-### Bem vindo! Eu sou o Alison Coutinho!👋😉
+### Bem vindo(a)! Eu sou o Alison Coutinho!👋😉
 - 🌍 Atualmente buscando novos horizontes. 
 - 🧠 Estudando: React.
 <div align="center">
